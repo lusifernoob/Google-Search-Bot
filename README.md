@@ -19,6 +19,13 @@ License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
   <summary><b>Deploy on Heroku</b></summary>
 <br/>
 
+
+## Deploy to Railway
+<p><a href=https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Flusifernoob%2FGoogle-Search-Bot&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%&API_IDDesc=Get+From+my.telegram.org&API_HASHDesc=Get+from+my.telegram.org&BOT_TOKENDesc=Get+from%40Botfather&referralCode=lusifernoob> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
+
+
+
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Google-Search-Bot/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
